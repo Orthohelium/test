@@ -1,5 +1,9 @@
 import whatwhat
-#in da butt
-# chicken butt
-# yyyy
-# steal code here
+
+
+cool = 'stuff'
+
+if cool == 'stuff':
+    # do things
+    echo "Thanks"
+
